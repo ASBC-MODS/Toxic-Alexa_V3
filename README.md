@@ -19,7 +19,7 @@ Project created by <a href="https://github.com/TURBOHYPER">Turbo</a> to make it 
 # ```Bot Info```
 <p align="center">
 <a href="https://github.com/TURBOHYPER/followers"><img title="Followers" src="https://img.shields.io/github/followers/TURBOHYPER?color=red&style=flat-square"></a>
-<a href="https://github.com/TURBOHYPER/Toxic-Alexa_V3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TURBOHYPER/Toxic-Alexa_V3?color=blue&style=flat-square"></a>
+<a href="https://github.com/TURBOHYPER/Toxic-Alexa_V3/stargazers/"><img title="Stars" src="ASBC-MODS"></a>
 <a href="https://github.com/TURBOHYPER/Toxic-Alexa_V3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TURBOHYPER/Toxic-Alexa_V3?color=red&style=flat-square"></a>
 <a href="https://github.com/TURBOHYPER/Toxic-Alexa_V3/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TURBOHYPER/Toxic-Alexa_V3?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/TURBOHYPER/Toxic-Alexa_V3"><img title="Open Source" src="https://img.shields.io/badge/Author-Turbo%20Mods%20Inc.-red?v=103"></a>
@@ -45,7 +45,7 @@ Project created by <a href="https://github.com/TURBOHYPER">Turbo</a> to make it 
  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TURBOHYPER/Toxic-AlexaV3?output%20only=1&lite=1#index.js)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TURBOHYPER/Toxic-Alexa_V3) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ASBC-MODS/Toxic-Alexa_V3) 
 <br>
         
 1. Click [SCAN](https://replit.com/@TURBOHYPER/Toxic-AlexaV3?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
